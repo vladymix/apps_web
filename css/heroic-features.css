@@ -16,3 +16,18 @@ body {
      background-color: #343a40;
     border-color: #343a40;
 }
+
+.masthead {
+  padding: 0px;
+ /* height: 100vh;
+  min-height: 500px;*/
+ /* background-image: url('/resources/emt_portada.png');*/
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.nopadding{
+ padding: 0px;
+}
