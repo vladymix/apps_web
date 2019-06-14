@@ -80,3 +80,7 @@ p{
 .white{
     background-color: white;
 }
+.center{
+     float: none;
+    margin: 0 auto;
+}
