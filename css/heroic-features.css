@@ -51,6 +51,11 @@ p{
     font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
+.py-5 .container p span{
+    font-size: 16px;
+    color: #0070c9;
+}
+
 .divider{
   height: 0.5px;
   margin: 9px 0;
